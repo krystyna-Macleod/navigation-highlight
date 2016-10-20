@@ -29,7 +29,7 @@ h1 {
 
 a {
   display: inline;
-  border: 3px solid #cc1465;
+  border: 3px solid #2f2d13;
   text-decoration: none;
   list-style-type: none;
   background-color: #b2a212;
@@ -38,7 +38,7 @@ a {
 }
 
 a:hover {
-  background-color: #b20953;
+  background-color: #cc1465;
 }
 
 img {
