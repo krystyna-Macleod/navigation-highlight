@@ -46,6 +46,7 @@ a:hover {
 
 nav li {
   display: inline-block;
+  margin: 0;
 }
 
 .current {
@@ -80,9 +81,9 @@ footer {
   display: block;
   background-color: #ffe500;
   text-align: center;
+  font-size: .75rem;
 }
 
 ul {
-  display: inline;
   list-style-type: none;
 }
