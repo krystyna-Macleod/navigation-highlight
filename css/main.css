@@ -11,3 +11,7 @@ header {
   background-color: #ffe500;
   margin: 0;
 }
+
+h1 h2 {
+  font-family: "Sigmar One", sans-serif;
+}
