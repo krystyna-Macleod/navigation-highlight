@@ -38,3 +38,9 @@ footer {
   background-color: #ffe500;
   text-align: center;
 }
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  list-style-type: none;
+}
