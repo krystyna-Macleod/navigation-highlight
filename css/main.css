@@ -23,7 +23,7 @@ header {
 h1 {
   text-align: center;
   font-family: "Sigmar One", sans-serif;
-  color: #b20953;
+  color: #cc1465;
   font-size: 3rem;
   margin: 0 0 .2em;
 }
@@ -52,7 +52,7 @@ nav li {
 }
 
 .current {
-  background-color: #cc1465;
+  background-color: #b20953;
 }
 
 img {
